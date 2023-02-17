@@ -1,0 +1,7 @@
+# Arquivos de construção
+dist/
+node_modules/
+
+# Arquivos de dependência
+package-lock.json
+yarn.lock
